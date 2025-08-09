@@ -1,1 +1,1 @@
-# This is my git-guthub learning repo
+# This is my git-github learning repo
